@@ -1,13 +1,16 @@
 package com.allam.automationgit;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
+
 
 
 public class Testjunit {
+	
+	public static void main(String args[])
+	{
+		System.out.println("Welcome to Jenkins");
+	}
 
-	WebDriver driver=null;
+	/*WebDriver driver=null;
 	@Test
 	public void sampletest()
 	{
@@ -16,7 +19,7 @@ public class Testjunit {
 		driver.get("https://www.google.com");
 		System.out.println("Hi Welcome to Github, Jenkins and Maven");
 	}
-	
+	*/
 	
 	/*@Test
 	public void readexcel() throws IOException
