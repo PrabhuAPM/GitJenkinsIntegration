@@ -13,6 +13,6 @@ public class Testjunit {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("https://www.google.com");
-		System.out.println("Hi Github and Jenkins and Maven");
+		System.out.println("Hi Welcome to Github, Jenkins and Maven");
 	}
 }
