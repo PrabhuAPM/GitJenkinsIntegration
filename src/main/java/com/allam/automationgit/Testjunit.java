@@ -1,11 +1,11 @@
 package com.allam.automationgit;
 
-
-
+import org.testng.annotations.Test;
 
 public class Testjunit {
 	
-	public static void main(String args[])
+	@Test
+	public void gittest()
 	{
 		System.out.println("Welcome to Jenkins");
 	}
