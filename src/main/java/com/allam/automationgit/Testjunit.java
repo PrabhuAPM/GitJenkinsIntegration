@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 public class Testjunit {
 
 	WebDriver driver=null;
-	//@Test
+	@Test
 	public void sampletest()
 	{
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
