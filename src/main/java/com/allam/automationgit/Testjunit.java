@@ -27,7 +27,7 @@ public class Testjunit {
 	}
 	
 	
-	@Test
+	/*@Test
 	public void readexcel() throws IOException
 	{
 		FileInputStream fis = new FileInputStream(new File("Testdata.xlsx"));
@@ -55,6 +55,6 @@ public class Testjunit {
 		
 	}
 	
-	}
+	}*/
 	
 }
