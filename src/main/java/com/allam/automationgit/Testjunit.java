@@ -26,7 +26,7 @@ public class Testjunit {
 		System.out.println("Hi Welcome to Github, Jenkins and Maven");
 	}
 	
-	@SuppressWarnings("deprecation")
+	
 	@Test
 	public void readexcel() throws IOException
 	{
